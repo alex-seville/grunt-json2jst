@@ -1,0 +1,9 @@
+{
+	"en":  {
+		"btnCreateGroup": "Ajouter un groupe",
+		"GroupInformation": "Group Information",
+		"lblSession": "Session",
+		"lnkEditSubGroups": "Sous-groupes",
+		"Title": "Edit groups"
+	}
+}

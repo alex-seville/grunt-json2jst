@@ -1,0 +1,42 @@
+{
+  "name": "grunt-json2jst",
+  "description": "Adding json resources to jst",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Alex-Seville/grunt-json2jst",
+  "author": {
+    "name": "Alex Seville",
+    "url": "http://blog.alexanderseville.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Alex-Seville/grunt-json2jst.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alex-Seville/grunt-json2jst/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Alex-Seville/grunt-json2jst/LICENSE-MIT"
+    }
+  ],
+  "main": "grunt.js",
+  "bin": "bin/grunt-json2jst",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "grunt": "~0.3.9",
+    "grunt-contrib": "~0.1.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.9",
+    "grunt-contrib": "~0.1.4"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
